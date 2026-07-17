@@ -43,6 +43,9 @@ The dataset contains:
 - Customer Details
 
 ---
+## 📸 Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 Key Insights
 
