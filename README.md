@@ -44,7 +44,6 @@ The dataset contains:
 
 ---
 ## 📸 Dashboard Preview
-
 ![Dashboard](dashboard.png)
 
 Key Insights
